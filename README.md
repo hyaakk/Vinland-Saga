@@ -2,7 +2,7 @@
 
 Um site desenvolvido puramente com **HTML** e **CSS** como uma homenagem ao anime e mangá **Vinland Saga**, abordando temas importantes e fatos interessantes sobre a obra.
 
-https://hyaakk.github.io/Vinland-Saga/
+https://vinlandsaga12.netlify.app/
 
 ## 📋 Sobre o Projeto
 
