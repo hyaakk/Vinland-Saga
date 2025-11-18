@@ -98,7 +98,7 @@ Página secreta de homenagem (acessível através do botão secreto no footer)
 --metal-gray: #6F6F6F    /* Cinza metálico */
 ```
 
-## Trello Usado
+## 🪢 Trello Usado
 
 <img width="861" height="667" alt="image" src="https://github.com/user-attachments/assets/1054077a-157c-4439-9bf5-c7d4916107f6" />
 
