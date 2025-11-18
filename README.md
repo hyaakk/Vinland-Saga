@@ -2,6 +2,8 @@
 
 Um site desenvolvido puramente com **HTML** e **CSS** como uma homenagem ao anime e mangá **Vinland Saga**, abordando temas importantes e fatos interessantes sobre a obra.
 
+https://hyaakk.github.io/Vinland-Saga/
+
 ## 📋 Sobre o Projeto
 
 Este projeto foi criado como uma homenagem à obra de Makoto Yukimura, explorando os principais personagens, contexto histórico, mensagens e recursos relacionados a Vinland Saga. O site foi desenvolvido de forma pura usando apenas HTML e CSS, sem frameworks ou bibliotecas externas.
